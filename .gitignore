@@ -1,0 +1,15 @@
+# built files
+bin
+obj
+# downloaded libraries
+node_modules
+# user-specific files
+.vs
+.vscode
+*.user
+*.suo
+# temp files
+*.tmp
+*.log
+*.orig
+# secrets
